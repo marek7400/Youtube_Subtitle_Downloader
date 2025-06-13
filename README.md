@@ -13,3 +13,10 @@ Play movie on YT, turn on subtitles (YT icon default) (choose subtitles "by auth
 v3.0
 
 ![v3](images/v3.png)
+
+### v4.0
+An alternative download address has been added via the website (ALT.SRT button).
+If the subtitles do not download after clicking, paste the movie address manually on the website.
+
+![v4](images/v4.png)
+

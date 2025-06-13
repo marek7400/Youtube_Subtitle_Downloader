@@ -47,7 +47,7 @@ Example:
 5 line
 
 ***
-#  1 line example:
+###  1 line example:
 1
 00:00:00,570 --> 00:00:06,640
 1 line

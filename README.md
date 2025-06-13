@@ -20,3 +20,50 @@ If the subtitles do not download after clicking, paste the movie address manuall
 
 ![v4](images/v4.png)
 
+# ATTENTION!
+## Subtitles downloaded via ALT.SRT are often two lines long.
+## This means that the player keeps one line and loads the next. Such subtitles are displayed incorrectly by standard PC players (MPC, PotPlayer, etc.).
+
+Example:
+
+1
+00:00:00,570 --> 00:00:04,100
+1 line
+
+2
+00:00:06,640 --> 00:00:12,240
+2 line
+
+3
+00:00:09,920 --> 00:00:14,000
+3 line
+
+4
+00:00:12,240 --> 00:00:15,920
+4 line 
+
+5
+00:00:14,000 --> 00:00:18,640
+5 line
+
+***
+#  1 line example:
+1
+00:00:00,570 --> 00:00:06,640
+1 line
+
+2
+00:00:06,640 --> 00:00:09,920
+2 line
+
+3
+00:00:09,920 --> 00:00:12,240
+3 line
+
+4
+00:00:12,240 --> 00:00:14,000
+4 line
+
+5
+00:00:14,000 --> 00:00:15,920
+5 line

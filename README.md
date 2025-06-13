@@ -1,4 +1,4 @@
-# Youtube Subtitle Downloader
+# Youtube Subtitle Downloader - Chrome extension
 
 ## 1. Load the movie, turn on subtitles, play, use the plugin to download subtitles.
 ## 2. If there are no subtitles in the extension window or they are not downloading (but are displayed in the movie), reload the page and try again.

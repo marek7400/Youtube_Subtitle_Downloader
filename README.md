@@ -23,7 +23,7 @@ If the subtitles do not download after clicking, paste the movie address manuall
 # ATTENTION!
 ## Subtitles downloaded via ALT.SRT are often two lines long.
 ## This means that the player keeps one line and loads the next. Such subtitles are displayed incorrectly by standard PC players (MPC, PotPlayer, etc.).
-
+### (note the display time of individual lines—they overlap each other)
 Example:
 
 1
